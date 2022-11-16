@@ -1,6 +1,6 @@
 # Información de la sección
 section:
-  name: Experiences
+  name: Jobs
   id: experiences
   enable: true
   weight: 3
@@ -9,7 +9,7 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Nombre Compañia.
+    name: TEC.
     url: "link"
     overview: "Descripción."
   positions:
